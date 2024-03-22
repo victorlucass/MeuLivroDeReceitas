@@ -69,7 +69,6 @@ E outras.
 4. Ótimo teste :)
 
 ## Licença
-
 Sinta-se livre para usar este projeto para estudar e aprender. Você não tem permissão para utiliza-lo para distribuição ou comercialização.
 
 
